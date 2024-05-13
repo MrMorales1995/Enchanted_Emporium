@@ -1,2 +1,2 @@
 # Enchanted_Emporium
-A e commerce site for all your wizarding needs
+An E commerce site for all your wizarding needs
